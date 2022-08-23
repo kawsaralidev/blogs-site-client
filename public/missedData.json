@@ -1,0 +1,30 @@
+[
+    {
+        "smalltitle": "Technology",
+        "image": "https://i.ibb.co/h7q4Tkn/hacking-17.png",
+        "title": "What is a framework? 8 logical models for developing new businesses",
+        "date": "26.01.2022",
+        "name": "Ali"
+    },
+    {
+        "smalltitle": "Technology",
+        "image": "https://i.ibb.co/qs2FZMY/Deep-Learning-e1658961945838.jpg",
+        "title": "What is Natural Language Processing (NLP)? Simple explanation of what you can do and how it works",
+        "date": "26.01.2022",
+        "name": "Ali"
+    },
+    {
+        "smalltitle": "Technology",
+        "image": "https://i.ibb.co/3vmn7d3/nlp-models-copy.webp",
+        "title": "What is Augmented Reality(AR)? explains what it means, how it differs from virtual reality",
+        "date": "26.01.2022",
+        "name": "Ali"
+    },
+    {
+        "smalltitle": "Technology",
+        "image": "https://i.ibb.co/3d1KYc5/Augmented-Reality-Apps-e1658961556174.webp",
+        "title": "What is deep learning? Simple explanations of machine learning’s differences and working examples",
+        "date": "26.01.2022",
+        "name": "Ali"
+    }
+]

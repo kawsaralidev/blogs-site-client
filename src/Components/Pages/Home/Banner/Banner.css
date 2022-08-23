@@ -1,0 +1,32 @@
+.banner2 {
+    background-image: url("../../../../../src/images/hacking-2.png");
+    width: 100%;
+    height: 100%;
+}
+.banner3 {
+    background-image: url("../../../../../src/images/hacking-5.png ");
+}
+.banner4 {
+    background-image: url("../../../../../src/images/octal_iotagriculture_cover-e1658938215437.jpg");
+}
+.banner5 {
+    background-image: url("../../../../../src/images/hacking-55.png");
+}
+.banner-text {
+    border-left: 4px solid tomato;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin-top: 10px;
+    padding-left: 8px;
+    margin-bottom: 10px;
+    font-weight: 600;
+    font-size: 20px;
+}
+.span-text {
+    background-color: tomato;
+    color: white;
+    padding: 3px 5px;
+    font-size: 12px;
+    font-weight: 700;
+}

@@ -1,0 +1,15 @@
+.top_nav_bg {
+    background-color: black;
+    height: 35px;
+}
+.logo_pera {
+    color: gray;
+    margin-top: -7px;
+}
+.logo_title h1 {
+    font-weight: 700;
+    font-size: 45px;
+}
+.logo_title h1:hover {
+    color: rgb(0, 176, 182);
+}
